@@ -1,0 +1,10 @@
+Downlaod pretrained weights from here:
+Task-1
+Fine tuned VGG: https://drive.google.com/open?id=1-HFcwn19599m9Sn3p69AylIBA6FYxAVC
+Fine tuned Resnet: https://drive.google.com/open?id=1ApYHKGBIWczTwFoxXavNGC-8aGtnTY2E
+Task-2
+Fine tuned VGG: https://drive.google.com/open?id=1-Anp-uoaFA49ODKbMKwHM5OEfH5Q0GJM
+Fine tuned Resnet: https://drive.google.com/open?id=1Ytc0oebQNB2a5GOwHLOypICYKCFNPZWv
+Entire model :
+https://drive.google.com/open?id=1C9NQBGRwOIJsE9zjNtwn0CsNGLKbnMf4
+https://drive.google.com/open?id=1-1IIn4weKUQLP6evU7XO8fvHSswkNuL6

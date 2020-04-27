@@ -6,9 +6,21 @@ For Zip File: https://drive.google.com/open?id=1-HQQciKYfwAO3oH7ci6zhg45DduvkpnK
 
 ## Pretrained weights
 https://drive.google.com/open?id=1lNENcohvA9cunyh1GcPmZ1fqRiuzfSOW
+</br>
+## Testing:
 
+#### Best Classified Images
 
-## Results:
+![Best Classified (VGG16)](/images/T1-Image-VGG-Best-1.PNG)
+![Best Classified (RESNET18)](/images/T1-Image-Resnet-Best-1.PNG)
+
+#### Worst Classified Images
+
+![Worst Classified (VGG16)](/images/T1-Image-VGG-Worst-1.PNG)
+![Worst Classified (RESNET18)](/images/T1-Image-Resnet-Worst-1.PNG)
+</br>
+
+## Results /  Accuracy Scores:
 
 | Backbone | Frozen Layers| Epochs | Training Accuracy | F1 Score (Training) | Testing Set Accuracy | F1 Score (Testing) |
 |----------|--------------|  :---:  |       :---:       |        :---:        |       :---:         |       :---:        |

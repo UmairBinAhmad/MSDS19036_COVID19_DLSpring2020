@@ -4,7 +4,7 @@ This repository contains code and results for COVID-19 classification assignment
 # Assignment Part 2 (Focal Loss)
 #### _MultiLabel MultiClass Classification_
 ## Results
-
+![Results](/images/Results.PNG)
 
 ## Dataset
 Dataset contain Total of 15000 X-Ray images from 2 classes.

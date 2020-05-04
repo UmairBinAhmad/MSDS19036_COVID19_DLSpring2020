@@ -6,6 +6,8 @@ This repository contains code and results for COVID-19 classification assignment
 ## Results
 ![Results](/images/Results.PNG)
 
+![Class Wise Accuracy](/images/class-wise-accuracy.PNG)
+
 ## Dataset
 Dataset contain Total of 15000 X-Ray images from 2 classes.
 
